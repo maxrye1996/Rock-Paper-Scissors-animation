@@ -15,3 +15,5 @@ Just clone the repo and go to <file:///path/to/your/directory/index.html>
 
 - [ ] Crop the images around the object
 - [ ] Display victory message and stop animation when all players are one type
+- [ ] Some collisions arent changing the losing object
+- [ ] Slow it down a bit to make the bouncing animations a bit smoother
