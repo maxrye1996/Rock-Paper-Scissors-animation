@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-animation
+# Rock Paper Scissors animation
 
 ## What is it
 
